@@ -1,9 +1,9 @@
 # Version definitions
 
 Pod::Spec.new do |s|
-  s.name         = 'SwftTestProj'
+  s.name         = 'SwftTestProj-new'
 
-  s.version      = '2.0.1'
+  s.version      = '3.0.0'
   s.summary      = 'Test Project'
 
   s.description  = 'Hello word of the test project'
