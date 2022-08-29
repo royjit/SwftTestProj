@@ -1,6 +1,6 @@
 public struct SwftTestProj {
 
-    let projectName = "SwftTestProj"
+    let projectName = "SwftTestProj-new"
 
     public init() {
     }
